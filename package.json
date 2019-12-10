@@ -1,0 +1,36 @@
+{
+  "name": "parallax-springs",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bezier-easing": "^2.1.0",
+    "ramda": "0.26.1",
+    "react-spring": "8.0.27",
+    "resize-observer-polyfill": "1.5.1"
+  },
+  "author": "Christer Lingard <lingard.christer@gmail.com>",
+  "devDependencies": {
+    "@babel/cli": "7.7.5",
+    "@babel/core": "7.7.5",
+    "@babel/preset-flow": "7.7.4",
+    "@typescript-eslint/eslint-plugin": "2.x",
+    "@typescript-eslint/parser": "2.x",
+    "babel-eslint": "10.x",
+    "eslint": "6.x",
+    "eslint-config-react-app": "5.1.0",
+    "eslint-plugin-flowtype": "3.x",
+    "eslint-plugin-import": "2.x",
+    "eslint-plugin-jsx-a11y": "6.x",
+    "eslint-plugin-react": "7.x",
+    "eslint-plugin-react-hooks": "1.x",
+    "flow-bin": "0.109.0",
+    "flow-typed": "2.6.2",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "peerDependencies": {
+    "react": "16.12.0"
+  }
+}
